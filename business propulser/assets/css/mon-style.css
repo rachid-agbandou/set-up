@@ -1,0 +1,26 @@
+
+
+ul {
+    list-style:none;
+    margin-left:0;
+    padding-left:0;
+    }
+    li {
+    margin-bottom:15px;/* à adapter */
+}
+.list-parent i{
+    border-radius: 50%;
+    box-shadow: rgb(187, 186, 182) 3px 3px 4px;
+}
+.list-parent li{
+    font-weight: bold;
+}
+.bi-arrow-right{
+    margin: 0% 0% 0% 80%;
+}
+.service-box img{
+    margin-bottom: 5%;
+}
+.service-box ul li{
+    text-align: left; 
+}
